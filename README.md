@@ -26,7 +26,7 @@ This notebook demonstrates how datasets from virtual society can be selected bas
 This is beneficial for assisting in automated tests in virtual society. The test dataset will be automatically selected based on the algorithm. From which we can derive significant persona's from the population in virtual society.
 
 ### StyleGAN2
-[![status](https://img.shields.io/badge/notebook-verified-green)](./notebooks/adveserial-networks/generative/StyleGan2/StyleGan2.ipynb)
+[![status](https://img.shields.io/badge/notebook-verified-green)](./notebooks/adversarial-networks/generative/StyleGan2/)
 
 This notebook demonstrates how to run NVIDIA's StyleGAN2
 
