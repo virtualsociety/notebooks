@@ -6,7 +6,7 @@ This repo contains a collection Jupyter Notebooks as research projects that are 
 
 For research projects, the following requirements should be met:
 
-8 Notebooks should be in described in the English language
+* Notebooks should be in described in the English language
 * Notebooks should not have dependencies that can not be resolved.
 * Dependencies that need be resolved should be available as a repo in the Virtual Society GitHub organization. This means that external repo's should be forked first.
 * Dependencies should be described under the `Current Notebooks` section.
