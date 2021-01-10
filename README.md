@@ -6,8 +6,9 @@ This repo contains a collection Jupyter Notebooks as research projects that are 
 
 For research projects, the following requirements should be met:
 
+8 Notebooks should be in described in the English language
 * Notebooks should not have dependencies that can not be resolved.
-* Dependencies that need be resolved should be available as a repo available in the Virtual Society GitHub organization. This means that external repo's should be forked first.
+* Dependencies that need be resolved should be available as a repo in the Virtual Society GitHub organization. This means that external repo's should be forked first.
 * Dependencies should be described under the `Current Notebooks` section.
 * Temporary file storage needed for research project should be placed on Google Drive
 * Notebooks should have clear descriptions in any stage of its work flow
@@ -18,18 +19,18 @@ For research projects, the following requirements should be met:
 ## Current Notebooks
 
 ### Dataset Deviation Algorithm
+![status](https://img.shields.io/badge/notebook-unhealthy-red)
+
 This notebook demonstrates how datasets from virtual society can be selected based on rule engine definition.
 
 This is beneficial for assisting in automated tests in virtual society. The test dataset will be automatically selected based on the algorithm. From which we can derive significant persona's from the population in virtual society.
-
-![status](https://img.shields.io/badge/notebook-unhealthy-red)
 
 ### StyleGAN2
 [![status](https://img.shields.io/badge/notebook-verified-green)](./notebooks/adveserial-networks/generative/StyleGan2/StyleGan2.ipynb)
 
 This notebook demonstrates how to run NVIDIA's StyleGAN2
 
-StyleGAN2 can potentially be used a part of the Persona's image generator for its population.
+StyleGAN2 can potentially be used as part of the Persona's image generator for its population.
 
 For information on StyleGAN2, see:
 * Paper: https://arxiv.org/abs/1812.04948
